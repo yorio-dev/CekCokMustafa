@@ -1,0 +1,13 @@
+{
+    "nama" : "Yo rio",
+    "nrp" : "123123",
+    "umur" : 18,
+    "jurusan" : "Teknik Informatika",
+    "lulus" : true,
+    "hobby" : ["olahraga",
+                "gaming"],
+    "dosen" : {
+        "dosen1" : "padika",
+        "dosen2" : "usman"
+    }
+}
